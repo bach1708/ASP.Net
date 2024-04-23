@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Microsoft Visual 2022\\ASP.net\\bai3.NVB\\Lab03_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D97F42AC-73A0-481D-A7FB-E0F8D3645CC4}|Lab03_2\\Lab03_2.csproj|e:\\microsoft visual 2022\\asp.net\\bai3.nvb\\lab03_2\\lab03_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97F42AC-73A0-481D-A7FB-E0F8D3645CC4}|Lab03_2\\Lab03_2.csproj|solutionrelative:lab03_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97F42AC-73A0-481D-A7FB-E0F8D3645CC4}|Lab03_2\\Lab03_2.csproj|e:\\microsoft visual 2022\\asp.net\\bai3.nvb\\lab03_2\\lab03_2\\views\\razorview\\array_loop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D97F42AC-73A0-481D-A7FB-E0F8D3645CC4}|Lab03_2\\Lab03_2.csproj|solutionrelative:lab03_2\\views\\razorview\\array_loop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97F42AC-73A0-481D-A7FB-E0F8D3645CC4}|Lab03_2\\Lab03_2.csproj|e:\\microsoft visual 2022\\asp.net\\bai3.nvb\\lab03_2\\lab03_2\\controllers\\razorviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97F42AC-73A0-481D-A7FB-E0F8D3645CC4}|Lab03_2\\Lab03_2.csproj|solutionrelative:lab03_2\\controllers\\razorviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP.net\\bai3.NVB\\Lab03_2\\Lab03_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab03_2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP.net\\bai3.NVB\\Lab03_2\\Lab03_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab03_2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T15:41:47.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array_Loop.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP.net\\bai3.NVB\\Lab03_2\\Lab03_2\\Views\\RazorView\\Array_Loop.cshtml",
+              "RelativeDocumentMoniker": "Lab03_2\\Views\\RazorView\\Array_Loop.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP.net\\bai3.NVB\\Lab03_2\\Lab03_2\\Views\\RazorView\\Array_Loop.cshtml",
+              "RelativeToolTip": "Lab03_2\\Views\\RazorView\\Array_Loop.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T15:37:04.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RazorViewController.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP.net\\bai3.NVB\\Lab03_2\\Lab03_2\\Controllers\\RazorViewController.cs",
+              "RelativeDocumentMoniker": "Lab03_2\\Controllers\\RazorViewController.cs",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP.net\\bai3.NVB\\Lab03_2\\Lab03_2\\Controllers\\RazorViewController.cs",
+              "RelativeToolTip": "Lab03_2\\Controllers\\RazorViewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:31:08.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
