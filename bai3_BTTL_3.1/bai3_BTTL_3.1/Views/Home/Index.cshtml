@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>In ra các số nguyên tố từ 1-100:</h2>
+<ul>
+    @foreach (var number in ViewBag.PrimeNumbers)
+    {
+        <li>@number</li>
+    }
+</ul>
+
+<h2>In ra giai thừa từ 1-10:</h2>
+<ul>
+    @foreach (var factorial in ViewBag.Factorials)
+    {
+        <li>@factorial</li>
+    }
+</ul>
+
+<h2>In ra bảng cửu chương từ 2-9:</h2>
+@foreach (var row in ViewBag.MultiplicationTable)
+{
+    <p>@Html.Raw(row)</p>
+}
