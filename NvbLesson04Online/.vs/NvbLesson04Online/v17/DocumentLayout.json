@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|e:\\microsoft visual 2022\\asp.net\\nvblesson04online\\nvblesson04online\\controllers\\nvbstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|solutionrelative:nvblesson04online\\controllers\\nvbstudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|e:\\microsoft visual 2022\\asp.net\\nvblesson04online\\nvblesson04online\\views\\nvbstudent\\addnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|solutionrelative:nvblesson04online\\views\\nvbstudent\\addnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|e:\\microsoft visual 2022\\asp.net\\nvblesson04online\\nvblesson04online\\views\\nvbstudent\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|solutionrelative:nvblesson04online\\views\\nvbstudent\\ketqua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|e:\\microsoft visual 2022\\asp.net\\nvblesson04online\\nvblesson04online\\views\\nvbstudent\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|solutionrelative:nvblesson04online\\views\\nvbstudent\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|e:\\microsoft visual 2022\\asp.net\\nvblesson04online\\nvblesson04online\\views\\nvbstudent\\ngonngurazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|solutionrelative:nvblesson04online\\views\\nvbstudent\\ngonngurazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|e:\\microsoft visual 2022\\asp.net\\nvblesson04online\\nvblesson04online\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E65830-C1B6-40AD-8715-D4D13DA6D098}|NvbLesson04Online\\NvbLesson04Online.csproj|solutionrelative:nvblesson04online\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ketqua.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Views\\NvbStudent\\Ketqua.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson04Online\\Views\\NvbStudent\\Ketqua.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Views\\NvbStudent\\Ketqua.cshtml",
+              "RelativeToolTip": "NvbLesson04Online\\Views\\NvbStudent\\Ketqua.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T14:29:39.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNewStudent.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Views\\NvbStudent\\AddNewStudent.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson04Online\\Views\\NvbStudent\\AddNewStudent.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Views\\NvbStudent\\AddNewStudent.cshtml",
+              "RelativeToolTip": "NvbLesson04Online\\Views\\NvbStudent\\AddNewStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T14:04:05.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chiTiet.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Views\\NvbStudent\\chiTiet.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson04Online\\Views\\NvbStudent\\chiTiet.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Views\\NvbStudent\\chiTiet.cshtml",
+              "RelativeToolTip": "NvbLesson04Online\\Views\\NvbStudent\\chiTiet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T12:33:41.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NvbStudentController.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Controllers\\NvbStudentController.cs",
+              "RelativeDocumentMoniker": "NvbLesson04Online\\Controllers\\NvbStudentController.cs",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Controllers\\NvbStudentController.cs",
+              "RelativeToolTip": "NvbLesson04Online\\Controllers\\NvbStudentController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:15:29.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NgonNguRazor.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Views\\NvbStudent\\NgonNguRazor.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson04Online\\Views\\NvbStudent\\NgonNguRazor.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Views\\NvbStudent\\NgonNguRazor.cshtml",
+              "RelativeToolTip": "NvbLesson04Online\\Views\\NvbStudent\\NgonNguRazor.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwCgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T12:57:07.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson04Online\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP.net\\NvbLesson04Online\\NvbLesson04Online\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NvbLesson04Online\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T12:13:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
