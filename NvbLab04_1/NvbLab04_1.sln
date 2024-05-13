@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NvbLab04_1", "NvbLab04_1\NvbLab04_1.csproj", "{5F56C6C5-6791-4B5A-80E2-26E89777E228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NvbLab04_2", "NvbLab04_2\NvbLab04_2.csproj", "{529B5A4C-3809-4FDC-A816-5C9D42603C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F56C6C5-6791-4B5A-80E2-26E89777E228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F56C6C5-6791-4B5A-80E2-26E89777E228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F56C6C5-6791-4B5A-80E2-26E89777E228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F56C6C5-6791-4B5A-80E2-26E89777E228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529B5A4C-3809-4FDC-A816-5C9D42603C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529B5A4C-3809-4FDC-A816-5C9D42603C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529B5A4C-3809-4FDC-A816-5C9D42603C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529B5A4C-3809-4FDC-A816-5C9D42603C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7763E10-8BE2-47F3-8164-F109EE1566B4}
+	EndGlobalSection
+EndGlobal

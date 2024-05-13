@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NvbLab04_2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|e:\\microsoft visual 2022\\asp\\nvblab04_1\\nvblab04_2\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|solutionrelative:nvblab04_2\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|e:\\microsoft visual 2022\\asp\\nvblab04_1\\nvblab04_2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|solutionrelative:nvblab04_2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|e:\\microsoft visual 2022\\asp\\nvblab04_1\\nvblab04_2\\models\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|solutionrelative:nvblab04_2\\models\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|e:\\microsoft visual 2022\\asp\\nvblab04_1\\nvblab04_2\\models\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|solutionrelative:nvblab04_2\\models\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|e:\\microsoft visual 2022\\asp\\nvblab04_1\\nvblab04_2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|solutionrelative:nvblab04_2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|e:\\microsoft visual 2022\\asp\\nvblab04_1\\nvblab04_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|solutionrelative:nvblab04_2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529B5A4C-3809-4FDC-A816-5C9D42603C3A}|NvbLab04_2\\NvbLab04_2.csproj|e:\\microsoft visual 2022\\asp\\nvblab04_1\\nvblab04_2\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NvbLab04_2",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\NvbLab04_2.csproj",
+              "RelativeDocumentMoniker": "NvbLab04_2\\NvbLab04_2.csproj",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\NvbLab04_2.csproj",
+              "RelativeToolTip": "NvbLab04_2\\NvbLab04_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-13T15:41:28.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NvbLab04_2\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "NvbLab04_2\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwDEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:36:43.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "NvbLab04_2\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "NvbLab04_2\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwC8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:26:09.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Models\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "NvbLab04_2\\Models\\CustomerRepository.cs",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Models\\CustomerRepository.cs",
+              "RelativeToolTip": "NvbLab04_2\\Models\\CustomerRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:18:06.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Models\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "NvbLab04_2\\Models\\ICustomerRepository.cs",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Models\\ICustomerRepository.cs",
+              "RelativeToolTip": "NvbLab04_2\\Models\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:17:15.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "NvbLab04_2\\Models\\Customer.cs",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Models\\Customer.cs",
+              "RelativeToolTip": "NvbLab04_2\\Models\\Customer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA7wBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:11:04.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NvbLab04_2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLab04_1\\NvbLab04_2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NvbLab04_2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T15:05:13.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
