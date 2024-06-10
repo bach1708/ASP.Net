@@ -1,0 +1,66 @@
+﻿@model NvbLesson08CF.Models.NvbBook
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>NvbBook</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NvbCategory.NvbCategoryName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvbCategory.NvbCategoryName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvbTitle)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvbTitle)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvbAuthor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvbAuthor)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvbYear)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvbYear)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvbPublisher)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvbPublisher)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvbPicture)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvbPicture)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.NvbBookId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
