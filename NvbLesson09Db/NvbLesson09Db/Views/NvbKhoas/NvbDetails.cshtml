@@ -1,0 +1,34 @@
+﻿@model NvbLesson09Db.Models.nvbKhoa
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>nvbKhoa</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NvbTenKH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvbTenKH)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NvbTrangThai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NvbTrangThai)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.NvbMaKH }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

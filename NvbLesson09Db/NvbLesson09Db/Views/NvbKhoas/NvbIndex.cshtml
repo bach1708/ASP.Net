@@ -1,0 +1,39 @@
+﻿@model IEnumerable<NvbLesson09Db.Models.nvbKhoa>
+
+@{
+    ViewBag.Title = "NvbIndex";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("NVB:Create New", "NvbCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NvbTenKH)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NvbTrangThai)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvbTenKH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NvbTrangThai)
+        </td>
+        <td>
+            @Html.ActionLink("NVB:Edit", "NVB:Edit", new { id=item.NvbMaKH }) |
+            @Html.ActionLink("NVB:Details", "NVB:Details", new { id=item.NvbMaKH }) |
+            @Html.ActionLink("NVB:Delete", "NVB:Delete", new { id=item.NvbMaKH })
+        </td>
+    </tr>
+}
+
+</table>

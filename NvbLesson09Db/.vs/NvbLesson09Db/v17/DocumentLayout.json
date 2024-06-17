@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|e:\\microsoft visual 2022\\asp\\nvblesson09db\\nvblesson09db\\views\\nvbkhoas\\nvbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|solutionrelative:nvblesson09db\\views\\nvbkhoas\\nvbindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|e:\\microsoft visual 2022\\asp\\nvblesson09db\\nvblesson09db\\views\\nvbkhoas\\nvbedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|solutionrelative:nvblesson09db\\views\\nvbkhoas\\nvbedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|e:\\microsoft visual 2022\\asp\\nvblesson09db\\nvblesson09db\\views\\nvbkhoas\\nvbdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|solutionrelative:nvblesson09db\\views\\nvbkhoas\\nvbdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|e:\\microsoft visual 2022\\asp\\nvblesson09db\\nvblesson09db\\views\\nvbkhoas\\nvbdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|solutionrelative:nvblesson09db\\views\\nvbkhoas\\nvbdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|e:\\microsoft visual 2022\\asp\\nvblesson09db\\nvblesson09db\\controllers\\nvbkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|solutionrelative:nvblesson09db\\controllers\\nvbkhoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|e:\\microsoft visual 2022\\asp\\nvblesson09db\\nvblesson09db\\views\\nvbkhoas\\nvbcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|solutionrelative:nvblesson09db\\views\\nvbkhoas\\nvbcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|e:\\microsoft visual 2022\\asp\\nvblesson09db\\nvblesson09db\\views\\shared\\_nvblayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E66224C-6877-49DB-A0B5-1FA2BB10C658}|NvbLesson09Db\\NvbLesson09Db.csproj|solutionrelative:nvblesson09db\\views\\shared\\_nvblayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_NvbLayout.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\Shared\\_NvbLayout.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson09Db\\Views\\Shared\\_NvbLayout.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\Shared\\_NvbLayout.cshtml",
+              "RelativeToolTip": "NvbLesson09Db\\Views\\Shared\\_NvbLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:22:55.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NvbIndex.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\NvbKhoas\\NvbIndex.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson09Db\\Views\\NvbKhoas\\NvbIndex.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\NvbKhoas\\NvbIndex.cshtml",
+              "RelativeToolTip": "NvbLesson09Db\\Views\\NvbKhoas\\NvbIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:20:23.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NvbEdit.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\NvbKhoas\\NvbEdit.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson09Db\\Views\\NvbKhoas\\NvbEdit.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\NvbKhoas\\NvbEdit.cshtml",
+              "RelativeToolTip": "NvbLesson09Db\\Views\\NvbKhoas\\NvbEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:20:18.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NvbDetails.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\NvbKhoas\\NvbDetails.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson09Db\\Views\\NvbKhoas\\NvbDetails.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\NvbKhoas\\NvbDetails.cshtml",
+              "RelativeToolTip": "NvbLesson09Db\\Views\\NvbKhoas\\NvbDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:20:12.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NvbCreate.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\NvbKhoas\\NvbCreate.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson09Db\\Views\\NvbKhoas\\NvbCreate.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\NvbKhoas\\NvbCreate.cshtml",
+              "RelativeToolTip": "NvbLesson09Db\\Views\\NvbKhoas\\NvbCreate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:20:04.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NvbDelete.cshtml",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\NvbKhoas\\NvbDelete.cshtml",
+              "RelativeDocumentMoniker": "NvbLesson09Db\\Views\\NvbKhoas\\NvbDelete.cshtml",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Views\\NvbKhoas\\NvbDelete.cshtml",
+              "RelativeToolTip": "NvbLesson09Db\\Views\\NvbKhoas\\NvbDelete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:19:50.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NvbKhoasController.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Controllers\\NvbKhoasController.cs",
+              "RelativeDocumentMoniker": "NvbLesson09Db\\Controllers\\NvbKhoasController.cs",
+              "ToolTip": "E:\\Microsoft Visual 2022\\ASP\\NvbLesson09Db\\NvbLesson09Db\\Controllers\\NvbKhoasController.cs",
+              "RelativeToolTip": "NvbLesson09Db\\Controllers\\NvbKhoasController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAcwG0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:14:53.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
